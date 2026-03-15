@@ -4,4 +4,4 @@ for i in {1..10}
 do
   echo $i
 done > /tmp/devopstesting.txt
-echo " Its finished"
+ech " Its finished"
